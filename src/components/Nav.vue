@@ -9,20 +9,20 @@
       <p class="text-xl">Florencia Soncini</p>
     </div>
     <div class="w-1/2 flex items-center justify-between">
-      <a href="">About me</a>
-      <a href="">Projects</a>
-      <a href="">Contact</a>
-      <designs />
+      <a href="/">About me</a>
+      <a href="#projets">Projects</a>
+      <a href="#contact">Contact</a>
+      <!-- <designs /> -->
     </div>
   </nav>
 </template>
 
 <script>
-import Designs from "./Designs.vue";
+// import Designs from "./Designs.vue";
 
 export default {
   name: "Nav",
-  components: { Designs },
+  // components: { Designs },
 };
 </script>
 

@@ -3,10 +3,13 @@
     <parallax-wrapper class="h-full flex flex-col">
       <Nav />
       <section>
-        <home />
+        <presentacion />
       </section>
       <section class="h-full">
-        <projects />
+        <proyectos id="projets" />
+      </section>
+      <section>
+        <contacto id="contact" />
       </section>
     </parallax-wrapper>
   </div>
@@ -15,11 +18,12 @@
 <script>
 import ParallaxWrapper from "./components/ParallaxWrapper.vue";
 import Nav from "./components/Nav.vue";
-import Home from "./views/Home.vue";
-import Projects from "./views/Projects.vue";
+import Presentacion from "./views/Presentacion.vue";
+import Proyectos from "./views/Proyectos.vue";
+import Contacto from "./views/Contacto.vue";
 
 export default {
-  components: { Nav, ParallaxWrapper, Home, Projects },
+  components: { Nav, ParallaxWrapper, Presentacion, Proyectos, Contacto },
 };
 </script>
 <style>

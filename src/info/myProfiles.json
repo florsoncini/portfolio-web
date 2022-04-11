@@ -1,0 +1,37 @@
+[
+	{
+		"icon": "envelope",
+		"type": "fas",
+		"link": "mailto:florenciasoncini@gmail.com"
+	},
+	{
+		"icon": "instagram",
+		"type": "fab",
+		"link": "https://www.instagram.com/flor_soncini/?hl=es-la"
+	},
+	{
+		"icon": "linkedin",
+		"type": "fab",
+		"link": "https://www.linkedin.com/in/florencia-soncini-904a76204/"
+	},
+	{
+		"icon": "whatsapp",
+		"type": "fab",
+		"link": "https://wa.me/5492284612298"
+	},
+	{
+		"icon": "twitter-square",
+		"type": "fab",
+		"link": "https://twitter.com/FlorSoncini"
+	},
+    {
+		"icon": "github",
+		"type": "fab",
+		"link": "https://github.com/florsoncini"
+	},
+    {
+		"icon": "facebook-square",
+		"type": "fab",
+		"link": "https://www.facebook.com/florencia.soncini.39/"
+	}
+]

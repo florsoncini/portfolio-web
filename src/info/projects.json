@@ -1,19 +1,5 @@
 [
 	{
-		"name": "Entreno Libre",
-		"image": "https://i.ibb.co/m0D18pG/entreno-libre.png",
-		"alt": "Entreno libre page",
-		"description": "Find the best places for train and play sports",
-		"link": "https://beta.app.entrenolibre.com/"
-	},
-	{
-		"name": "Rusti.codes",
-		"image": "https://i.ibb.co/1bWgjyk/rusti-codes.png",
-		"alt": "Rusti codes page",
-		"description": "Train yourself daily with the best javascript coding exercises",
-		"link": "https://rusti.codes/"
-	},
-	{
 		"name": "Rustic IT",
 		"image": "https://i.ibb.co/87CBcqN/rusticit.png",
 		"alt": "Rustic it page",
@@ -26,6 +12,20 @@
 		"alt": "Wonder academy page",
 		"description": "The best online academy for english learning",
 		"link": "https://wonder-academy.netlify.app/"
+	},
+	{
+		"name": "Entreno Libre",
+		"image": "https://i.ibb.co/m0D18pG/entreno-libre.png",
+		"alt": "Entreno libre page",
+		"description": "Find the best places for train and play sports",
+		"link": "https://beta.app.entrenolibre.com/"
+	},
+	{
+		"name": "Rusti.codes",
+		"image": "https://i.ibb.co/1bWgjyk/rusti-codes.png",
+		"alt": "Rusti codes page",
+		"description": "Train yourself daily with the best javascript coding exercises",
+		"link": "https://rusti.codes/"
 	},
 	{
 		"name": "Linea Stop",

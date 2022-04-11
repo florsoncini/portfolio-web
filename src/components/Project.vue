@@ -1,5 +1,5 @@
 <template>
-  <a :href="link" class="flex flex-col bg-minimalista-gray-t m-5 p-5 active">
+  <a :href="link" class="flex flex-col bg-minimalista-gray-t m-5 p-5 zoom">
     <img :src="image" :alt="alt" class="w-full" />
     <div class="flex flex-col">
       <div class="text-left m-auto w-full">
@@ -32,9 +32,3 @@ export default {
   },
 };
 </script>
-
-<style scoped>
-a:hover {
-  border: 2px solid #aaf1ff;
-}
-</style>
