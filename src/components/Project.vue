@@ -1,5 +1,5 @@
 <template>
-  <a :href="link" class="flex flex-col bg-minimalista-gray-t m-5 p-5 zoom">
+  <a :href="link" class="flex flex-col project-card bg-blur m-5 p-5 zoom">
     <img :src="image" :alt="alt" class="w-full" />
     <div class="flex flex-col">
       <div class="text-left m-auto w-full">
@@ -32,3 +32,10 @@ export default {
   },
 };
 </script>
+<style scoped>
+.project-card {
+  box-shadow: 4px 7px 15px rgba(0, 0, 0, 0.08);
+  text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.25);
+  border-radius: 15px;
+}
+</style>

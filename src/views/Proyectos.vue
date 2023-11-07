@@ -1,5 +1,8 @@
 <template>
   <div class="flex flex-wrap justify-around w-11/12 m-auto">
+    <div class="projects absolute">
+      <p class="text-xl font-bold">Projects</p>
+    </div>
     <project
       v-for="project in projects"
       :key="project.name"
@@ -23,3 +26,15 @@ export default {
   },
 };
 </script>
+<style scoped>
+.projects {
+  height: 2rem;
+  width: 100%;
+  top: 100vh;
+  text-align: left;
+  padding-left: 11rem;
+  color: white;
+  background: var(--black-t);
+  backdrop-filter: blur(2px);
+}
+</style>

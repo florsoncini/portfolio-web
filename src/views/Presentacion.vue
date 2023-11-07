@@ -1,16 +1,16 @@
 <template>
-  <div class="flex flex-col items-center justify-center h-full">
-    <me class="w-1/2" />
+  <div class="w-full h-full">
+    <about-me class="w-1/2" />
   </div>
 </template>
 
 <script>
-import Me from "@/components/Me.vue";
+import AboutMe from "../components/AboutMe.vue";
 
 export default {
   name: "Home",
   components: {
-    Me,
+    AboutMe,
   },
 };
 </script>
