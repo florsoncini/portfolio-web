@@ -8,10 +8,11 @@
         <span class="title mb-10">Florencia<br />Soncini</span>
         <div class="z-10 card">
           <span class=""
-            >Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti
-            eos magnam repellat laboriosam praesentium earum iste tenetur harum,
-            consectetur deserunt dolores fuga doloremque? Velit libero illum
-            amet dicta, nemo minus?</span
+            >Hi there! I'm Florencia, a web developer with a passion for design,
+            maquetado, and administration. I turn creative concepts into
+            functional and visually appealing websites.<br /><strong
+              >Let's build something great together!</strong
+            ></span
           >
         </div>
       </div>
@@ -24,7 +25,7 @@
             target="_blank"
             ><img class="w-10" src="../assets/linkedin.png" alt=""
           /></a>
-          <a class="white-card zoom"
+          <a href="mailto:florenciasoncini@gmail.com" class="white-card zoom"
             ><img class="w-10" src="../assets/gmail.png" alt=""
           /></a>
           <a
