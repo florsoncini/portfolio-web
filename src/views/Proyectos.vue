@@ -33,8 +33,8 @@ export default {
   top: 100vh;
   text-align: left;
   padding-left: 11rem;
-  color: white;
-  background: var(--black-t);
+  color: gray;
+  background: #f5f5f5;
   backdrop-filter: blur(2px);
 }
 </style>

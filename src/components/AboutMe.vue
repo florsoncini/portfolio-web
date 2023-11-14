@@ -2,6 +2,7 @@
   <article class="h-full w-full roboto">
     <div class="p-5 gradient h-full w-full flex items-center">
       <img src="../assets/mask.svg" alt="" />
+      <img src="../assets/mask-design.svg" alt="" />
       <div
         class="z-10 ml-40 text-white text-left flex flex-col justify-around m-5"
       >
