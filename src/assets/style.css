@@ -6,11 +6,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Ms+Madi&family=Teko:wght@300&display=swap');
 
 :root{
-  --violeta: rgba(112, 0, 255, 0.80);
+  --violeta: rgba(111, 0, 255, 0.384);
   --blanco: rgba(255, 255, 255, 0.55);
-  --celeste: rgba(0, 87, 255, 0.8);
+  --celeste: rgba(0, 85, 255, 0.37);
   --white-t: rgba(255, 255, 255, 0.08);
-  --black-t: rgb(0 0 0 / 27%);
+  --black-t: rgba(94, 94, 94, 0.27);
 }
 
 body {
