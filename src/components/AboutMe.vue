@@ -80,10 +80,6 @@ img {
   font-size: 5rem;
 }
 
-.card {
-  height: 280px;
-  width: 280px;
-}
 a {
   display: flex;
   align-content: center;
