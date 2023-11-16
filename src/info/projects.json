@@ -4,34 +4,48 @@
 		"image": "https://i.ibb.co/87CBcqN/rusticit.png",
 		"alt": "Rustic it page",
 		"description": "Main web for Rustic IT, software solutions",
-		"link": "https://rusticit.com/"
-	},
-	{
-		"name": "Wonder Academy",
-		"image": "https://i.ibb.co/n88wqB6/wonder-academy.png",
-		"alt": "Wonder academy page",
-		"description": "The best online academy for english learning",
-		"link": "https://wonder-academy.netlify.app/"
-	},
-	{
-		"name": "Entreno Libre",
-		"image": "https://i.ibb.co/m0D18pG/entreno-libre.png",
-		"alt": "Entreno libre page",
-		"description": "Find the best places for train and play sports",
-		"link": "https://beta.app.entrenolibre.com/"
+		"link": "https://rusticit.com/",
+		"target": "_blank"
 	},
 	{
 		"name": "rusti.codes",
 		"image": "https://i.ibb.co/1bWgjyk/rusti-codes.png",
 		"alt": "Rusti codes page",
 		"description": "Train yourself daily with the best javascript coding exercises",
-		"link": "https://rusti.codes/"
+		"link": "https://rusti.codes/",
+		"target": "_blank"
+	},
+	{
+		"name": "Wonder Academy",
+		"image": "https://i.ibb.co/n88wqB6/wonder-academy.png",
+		"alt": "Wonder academy page",
+		"description": "The best online academy for english learning",
+		"link": "https://wonder-academy.netlify.app/",
+		"target": "_blank"
+	},
+	{
+		"name": "Entreno Libre",
+		"image": "https://i.ibb.co/m0D18pG/entreno-libre.png",
+		"alt": "Entreno libre page",
+		"description": "Find the best places for train and play sports",
+		"link": "https://app-entrenolibre.netlify.app/?rel=rusticit.com",
+		"target": "_blank"
 	},
 	{
 		"name": "Linea Stop",
 		"image": "https://i.ibb.co/X2ngv7y/linea-stop.png",
 		"alt": "Linea stop page",
 		"description": "A excelent team help you to stop smoking",
-		"link": "https://lineastop.net/"
+		"link": "https://lineastop.net/",
+		"target": "_blank"
+	},
+	{
+		"name": "Vida Natural",
+		"image": "https://i.ibb.co/ZWjfLGm/vida-natural.png" ,
+		"alt": "Vida natural page",
+		"description": "A lead company in natural beauty and health products",
+		"link": "https://vidanaturalargentina.com/?rel=rusticit.com",
+		"target": "_blank"
 	}
 ]
+
