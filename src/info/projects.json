@@ -27,7 +27,7 @@
 		"name": "Entreno Libre",
 		"image": "https://i.ibb.co/m0D18pG/entreno-libre.png",
 		"alt": "Entreno libre page",
-		"description": "Find the best places for train and play sports",
+		"description": "A web app that helps you discover the top training centers in your area",
 		"link": "https://app-entrenolibre.netlify.app/?rel=rusticit.com",
 		"target": "_blank"
 	},
@@ -35,7 +35,7 @@
 		"name": "Linea Stop",
 		"image": "https://i.ibb.co/X2ngv7y/linea-stop.png",
 		"alt": "Linea stop page",
-		"description": "A excelent team help you to stop smoking",
+		"description": "An excelent team help you to stop smoking",
 		"link": "https://lineastop.net/",
 		"target": "_blank"
 	},
